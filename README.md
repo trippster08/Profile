@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome Tripp's Preliminary Website
 
 You can use the [editor on GitHub](https://github.com/trippster08/Profile/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
