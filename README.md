@@ -1,7 +1,5 @@
-## Kenneth Macdonald
-### AKA Tripp
-
-# Page O' Crustacea
+# Tripp Macdonald
+## Page of Crustacea
 
 
 
