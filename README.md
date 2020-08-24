@@ -9,6 +9,8 @@
 ![Image 2 of Triops](https://github.com/trippster08/Profile/blob/master/Images_Webpage/Color%20Plate%202%20Manuscript.jpg)
 <img src="https://github.com/trippster08/Profile/blob/master/Images_Webpage/Color Plate 2 Manuscript.jpg" alt="Image 2 of Triops" style="height: 50px; width:50px;"/>
 
+<img src="https://github.com/trippster08/Profile/blob/master/Images_Webpage/Color Plate 2 Manuscript.jpg" alt="Image 2 of Triops" width="50">
+
 ### Arthropoda: Malocostraca: Decapoda: Alpehidae
 
 
