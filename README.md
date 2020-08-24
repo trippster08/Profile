@@ -4,7 +4,7 @@
 
 ### Arthropoda: Branchiopoda: Notostraca: Triopsidae
 
-![Image of Triops](/Users/macdonaldk/Desktop/Images_Webpage/Color\ Plate\ 1\ Manuscript.jpg)
+![Image of Triops](/Users/macdonaldk/Desktop/Images_Webpage/Color_Plate_1_Manuscript.jpg)
 
 
 ### Arthropoda: Malocostraca: Decapoda: Alpehidae
