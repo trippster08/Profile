@@ -6,6 +6,9 @@
 
 ![Image of Triops](Color_Plate_1_Manuscript.jpg)
 
+![Image 2 of Triops](https://github.com/trippster08/Profile/blob/master/Images_Webpage/Color%20Plate%202%20Manuscript.jpg)
+
+
 ### Arthropoda: Malocostraca: Decapoda: Alpehidae
 
 
