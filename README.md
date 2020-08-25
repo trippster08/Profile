@@ -30,7 +30,7 @@ Sponge-dwelling snapping shrimp
 
 *Synalpheus agelas* | *Synalpheus carpenteri*
 :-------------------------:|:------------------------:
-![S agelas](https://github.com/trippster08/Profile/blob/Images_Webpage/JAM08-8503%20S%20agelas%20(7)%20copy.jpg?raw=true) | ![S carpenteri](https://github.com/trippster08/Profile/blob/Images_Webpage/JAM08-6113%20S%20carpenteri%20(7)%20copy.jpg?raw=true)
+![S agelas](https://github.com/trippster08/Profile/blob/master/Images_Webpage/JAM08-8503%20S%20agelas%20(7)%20copy.jpg?raw=true) | ![S carpenteri](https://github.com/trippster08/Profile/blob/master/Images_Webpage/JAM08-6113%20S%20carpenteri%20(7)%20copy.jpg?raw=true)
 
 
 ### Arthropoda: Malocostraca: Amphipoda: 
