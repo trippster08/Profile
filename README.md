@@ -11,7 +11,7 @@
 <img src="https://github.com/trippster08/Profile/blob/master/Images_Webpage/Color_Plate_1_Manuscript.jpg" alt="Image 2 of Triops" width="500">|<img src="https://github.com/trippster08/Profile/blob/master/Images_Webpage/Color Plate 2 Manuscript.jpg" alt="Image 2 of Triops" width="500">
 
 
-<img src="/Images_Webpage/Color_Plate_1_Manuscript.jpg" alt="Image 2 of Triops" width="500">|<img src="/Images_Webpage/Color Plate 2 Manuscript.jpg" alt="Image 2 of Triops" width="500">
+<img src="/Images_Webpage/Color_Plate_1_Manuscript.jpg" alt="Image 2 of Triops" width="500" raw=true>|<img src="/Images_Webpage/Color Plate 2 Manuscript.jpg" alt="Image 2 of Triops" width="500" raw="true">
 
 <img src="https://github.com/trippster08/Profile/blob/master/Images_Webpage/Color_Plate_1_Manuscript.jpg" alt="Image 2 of Triops" width="500" raw="True">|<img src="https://github.com/trippster08/Profile/blob/master/Images_Webpage/Color Plate 2 Manuscript.jpg" alt="Image 2 of Triops" width="500" raw="True">
 
