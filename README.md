@@ -11,6 +11,9 @@
 
 ### Arthropoda: Malocostraca: Decapoda: Alpehidae
 
+*Synalpheus mcclendoni* | *Synalpheus idios*
+:-------------------------:|:------------------------:
+
 
 ### Arthropoda: Malocostraca: Amphipoda: 
 
