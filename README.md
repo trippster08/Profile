@@ -24,6 +24,9 @@
 :-------------------------:|:------------------------:
 ![S agelas](https://github.com/trippster08/Profile/blob/master/Images_Webpage/JAM08-8503%20S%20agelas%20(7)%20copy.jpg) | ![S carpenteri](https://github.com/trippster08/Profile/blob/master/Images_Webpage/JAM08-6113%20S%20carpenteri%20(7)%20copy.jpg)
 
+*Synalpheus agelas* | *Synalpheus carpenteri*
+![S agelas](https://github.com/trippster08/Profile/blob/master/Images_Webpage/JAM08-8503%20S%20agelas%20(7)%20copy.jpg) | ![S carpenteri](https://github.com/trippster08/Profile/blob/master/Images_Webpage/JAM08-6113%20S%20carpenteri%20(7)%20copy.jpg)
+
 ### Arthropoda: Malocostraca: Amphipoda: 
 
 <img src="https://github.com/trippster08/Profile/blob/master/Images_Webpage/5_18%20Acan%20victorii.jpg" alt="Acanthogammarus victorii" width="500">
