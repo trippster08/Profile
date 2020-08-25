@@ -23,8 +23,6 @@ Sponge-dwelling snapping shrimp
 :-------------------------:|:------------------------:
 ![S mcclendoni](https://github.com/trippster08/Profile/blob/master/Images_Webpage/CU08-0504%20mcclendoni%20male.jpg) | ![S idios](https://github.com/trippster08/Profile/blob/master/Images_Webpage/CU08-0909%20idios%20female.jpg)
 
-another new thing
-
 
 *Synalpheus corallinus* | *Synalpheus sanctithomae*
 :-------------------------:|:------------------------:
@@ -32,7 +30,7 @@ another new thing
 
 *Synalpheus agelas* | *Synalpheus carpenteri*
 :-------------------------:|:------------------------:
-![S agelas](https://github.com/trippster08/Profile/blob/master/Images_Webpage/JAM08-8503%20S%20agelas%20(7)%20copy.jpg)raw=true | ![S carpenteri](https://github.com/trippster08/Profile/blob/master/Images_Webpage/JAM08-6113%20S%20carpenteri%20(7)%20copy.jpg)raw=true
+![S agelas](/Images_Webpage/JAM08-8503%20S%20agelas%20(7)%20copy.jpg?raw=true) | ![S carpenteri](/Images_Webpage/JAM08-6113%20S%20carpenteri%20(7)%20copy.jpg?raw=true)
 
 
 ### Arthropoda: Malocostraca: Amphipoda: 
