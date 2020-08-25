@@ -8,8 +8,9 @@
 *Triops longicaudatus* B,E;
 *Triops oryzaphagus* C,F
 
-<img src="https://github.com/trippster08/Profile/blob/master/Images_Webpage/Color_Plate_1_Manuscript.jpg" alt="Image 2 of Triops" width="500">|<img src="https://github.com/trippster08/Profile/blob/master/Images_Webpage/Color Plate 2 Manuscript.jpg" alt="Image 2 of Triops" width="500">
+<img src="https://github.com/trippster08/Profile/blob/master/Images_Webpage/Color_Plate_1_Manuscript.jpg?raw=true" alt="Image 2 of Triops" width="500">|<img src="https://github.com/trippster08/Profile/blob/master/Images_Webpage/Color Plate 2 Manuscript.jpg?raw=true" alt="Image 2 of Triops" width="500">
 
+change
 
 <img src="/Images_Webpage/Color_Plate_1_Manuscript.jpg" alt="Image 2 of Triops" width="500" raw=true>|<img src="/Images_Webpage/Color Plate 2 Manuscript.jpg" alt="Image 2 of Triops" width="500" raw="true">
 
