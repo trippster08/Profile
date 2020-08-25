@@ -10,8 +10,6 @@
 
 <img src="https://github.com/trippster08/Profile/blob/master/Images_Webpage/Color_Plate_1_Manuscript.jpg" alt="Image 2 of Triops" width="500">|<img src="https://github.com/trippster08/Profile/blob/master/Images_Webpage/Color Plate 2 Manuscript.jpg" alt="Image 2 of Triops" width="500">
 
-Trying something new
-
 
 <img src="/Images_Webpage/Color_Plate_1_Manuscript.jpg" alt="Image 2 of Triops" width="500" raw=true>|<img src="/Images_Webpage/Color Plate 2 Manuscript.jpg" alt="Image 2 of Triops" width="500" raw="true">
 
@@ -31,7 +29,7 @@ Sponge-dwelling snapping shrimp
 
 *Synalpheus agelas* | *Synalpheus carpenteri*
 :-------------------------:|:------------------------:
-![S agelas](https://github.com/trippster08/Profile/blob/master/Images_Webpage/JAM08-8503%20S%20agelas%20(7)%20copy.jpg) | ![S carpenteri](https://github.com/trippster08/Profile/blob/master/Images_Webpage/JAM08-6113%20S%20carpenteri%20(7)%20copy.jpg)
+![S agelas](https://github.com/trippster08/Profile/blob/master/Images_Webpage/JAM08-8503%20S%20agelas%20(7)%20copy.jpg)raw=true | ![S carpenteri](https://github.com/trippster08/Profile/blob/master/Images_Webpage/JAM08-6113%20S%20carpenteri%20(7)%20copy.jpg)raw=true
 
 
 ### Arthropoda: Malocostraca: Amphipoda: 
