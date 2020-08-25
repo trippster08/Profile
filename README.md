@@ -32,7 +32,7 @@ Sponge-dwelling snapping shrimp
 *Acanthogammarus victorii*
 
 
-<img src="/Images_Webpage/5_18%20Acan%20victorii.jpg" alt="Acanthogammarus victorii?raw=true" width="500">
+<img src="/Images_Webpage/5_18%20Acan%20victorii.jpg?raw=true" alt="Acanthogammarus victorii" width="500">
 
 
 all photos by K Macdonald
