@@ -10,8 +10,6 @@
 
 <img src="https://github.com/trippster08/Profile/blob/master/Images_Webpage/Color_Plate_1_Manuscript.jpg?raw=true" alt="Image 2 of Triops" width="500">|<img src="https://github.com/trippster08/Profile/blob/master/Images_Webpage/Color Plate 2 Manuscript.jpg?raw=true" alt="Image 2 of Triops" width="500">
 
-change
-
 <img src="/Images_Webpage/Color_Plate_1_Manuscript.jpg" alt="Image 2 of Triops" width="500" raw=true>|<img src="/Images_Webpage/Color Plate 2 Manuscript.jpg" alt="Image 2 of Triops" width="500" raw="true">
 
 <img src="https://github.com/trippster08/Profile/blob/master/Images_Webpage/Color_Plate_1_Manuscript.jpg" alt="Image 2 of Triops" width="500" raw="True">|<img src="https://github.com/trippster08/Profile/blob/master/Images_Webpage/Color Plate 2 Manuscript.jpg" alt="Image 2 of Triops" width="500" raw="True">
@@ -39,7 +37,7 @@ Sponge-dwelling snapping shrimp
 *Acanthogammarus victorii*
 
 
-<img src="/Images_Webpage/5_18%20Acan%20victorii.jpg" alt="Acanthogammarus victorii" width="500" raw="true">
+<img src="/Images_Webpage/5_18%20Acan%20victorii.jpg" alt="Acanthogammarus victorii?raw=true" width="500">
 
 
 all photos by K Macdonald
