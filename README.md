@@ -33,7 +33,7 @@ Sponge-dwelling snapping shrimp
 ![S agelas](https://github.com/trippster08/Profile/blob/master/Images_Webpage/JAM08-8503%20S%20agelas%20(7)%20copy.jpg?raw=true) | ![S carpenteri](https://github.com/trippster08/Profile/blob/master/Images_Webpage/JAM08-6113%20S%20carpenteri%20(7)%20copy.jpg?raw=true)
 
 
-### Arthropoda: Malocostraca: Amphipoda: 
+### Arthropoda: Malocostraca: Amphipoda 
 
 *Acanthogammarus victorii*
 
@@ -41,5 +41,5 @@ Sponge-dwelling snapping shrimp
 <img src="/Images_Webpage/5_18%20Acan%20victorii.jpg" alt="Acanthogammarus victorii" width="500" raw="true">
 
 
-all images by K Macdonald
+all photos by K Macdonald
 
