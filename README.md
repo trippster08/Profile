@@ -4,6 +4,9 @@
 
 ### Arthropoda: Branchiopoda: Notostraca: Triopsidae
 
+*Triops aequalis* A,D
+*Triops longicaudatus* B,E
+*Triops oryzaphagus* C,F
 
 <img src="https://github.com/trippster08/Profile/blob/master/Images_Webpage/Color_Plate_1_Manuscript.jpg" alt="Image 2 of Triops" width="500">
 
